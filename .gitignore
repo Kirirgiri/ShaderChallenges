@@ -1,0 +1,27 @@
+# Compiled shader files
+*.spv
+*.dxil
+*.cso
+
+# Build directories
+/build/
+/bin/
+/obj/
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dependency management
+/node_modules/
+/packages/
+
+# Generated documentation
+/docs/
+
+# Personal configuration files
+.env
